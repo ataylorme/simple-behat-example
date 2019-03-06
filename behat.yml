@@ -8,13 +8,5 @@ default:
   extensions:
     Behat\MinkExtension:
       base_url: https://pantheon-wp-best-practices.lndo.site/
-      browser_name: chrome
-      default_session: default
-      javascript_session: selenium2
-      sessions:
-        default:
-          goutte:
-            guzzle_parameters:
-              verify: false  # Allow self-signed SSL certificates
-        selenium2:
-          selenium2: ~
+      goutte: ~
+      selenium2: ~
