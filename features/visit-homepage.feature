@@ -1,3 +1,4 @@
+@no_auth
 Feature: Visibility of the homepage
   In order to have confidence that my site is accessible
   As a site administrator
