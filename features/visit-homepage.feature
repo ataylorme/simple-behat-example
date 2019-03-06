@@ -1,8 +1,7 @@
-@no_auth
-Feature: Visibility of the home page
-  In order to have confidence that build tools works
+Feature: Visibility of the homepage
+  In order to have confidence that my site is accessible
   As a site administrator
-  I want to verify I can visit a valid home page on Pantheon
+  I want to verify I can visit the homepage
 
   Scenario: Verify the homepage
     When I am on the homepage
