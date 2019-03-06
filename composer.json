@@ -17,6 +17,6 @@
     },
     "scripts": {
         "behat-steps": "vendor/bin/behat -dl",
-        "behat": "vendor/bin/behat --strict --colors"
+        "behat": "vendor/bin/behat --strict --colors --format-settings='{\"paths\": false}'"
     }    
 }
