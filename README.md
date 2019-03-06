@@ -4,16 +4,13 @@ A simple [Behat](http://behat.org/en/latest/) example repository using [WordHat]
 
 ## Setup
 
-Please see the [WordHat requirements](https://wordhat.info/getting-started/installation.html#requirements).
+### Requirements
 
-In short, you will need:
+* PHP (version 7.1+) or greater
+* [Composer](https://getcomposer.org/)
+* a site URL to test
 
-* PHP (version 7.1+)
-* Composer
-* a local [WordPress](https://wordpress.org/) site installation to test (version 4.8+)
-* wp-cli
-
-You will also need to:
+### Installation
 
 * run `composer install` to download dependencies
 * edit `behat.yml` and update the following items to match your WordPress installation:
