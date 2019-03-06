@@ -1,20 +1,22 @@
 <?php
-use PaulGibbs\WordpressBehatExtension\Context\RawWordpressContext;
 
-use Behat\Behat\Tester\Exception\PendingException;
+use Behat\Behat\Context\Context;
+use Behat\Gherkin\Node\PyStringNode;
+use Behat\Gherkin\Node\TableNode;
 
 /**
- * Define application features from the specific context.
+ * Defines application features from the specific context.
  */
-class FeatureContext extends RawWordpressContext {
-
+class FeatureContext implements Context
+{
     /**
-     * Initialise context.
+     * Initializes context.
      *
      * Every scenario gets its own context instance.
-     * You can also pass arbitrary arguments to the context constructor through behat.yml.
+     * You can also pass arbitrary arguments to the
+     * context constructor through behat.yml.
      */
-    public function __construct() {
-        parent::__construct();
+    public function __construct()
+    {
     }
 }
