@@ -15,7 +15,7 @@ default:
 
   extensions:
     Behat\MinkExtension:
-      base_url: https://ataylorme-wordpress.lndo.site/
+      base_url: https://pantheon-wp-best-practices.lndo.site/
       browser_name: chrome
       default_session: default
       javascript_session: selenium2
@@ -29,8 +29,8 @@ default:
 
     PaulGibbs\WordpressBehatExtension:
       default_driver: wpcli
-      path: /Users/andrewtaylor/Sites/ataylorme-wordpress/web/wp
-      site_url: https://ataylorme-wordpress.lndo.site/wp/
+      path: /Users/andrewtaylor/Development/Pantheon/wp-best-practices/web/wp
+      site_url: https://pantheon-wp-best-practices.lndo.site/wp/
       users:
         -
           roles:
