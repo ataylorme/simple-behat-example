@@ -1,6 +1,8 @@
 # Simple Behat Example
 
-A simple [Behat](http://behat.org/en/latest/) example repository using [WordHat](https://wordhat.info) for the talk 'Testing Business Critical Features With Behat' at Midwest PHP 2019
+A simple [Behat](http://behat.org/en/latest/) example repository using [WordHat](https://wordhat.info) for the talk _Testing Business Critical Features With Behat_ at Midwest PHP 2019.
+
+For a non-WordPress version of the example, visit [the `master` branch](https://github.com/ataylorme/simple-behat-example/tree/master)
 
 ## Setup
 
