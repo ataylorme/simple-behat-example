@@ -1,6 +1,6 @@
 # Simple Behat Example
 
-A simple [Behat](http://behat.org/en/latest/) example repository using [Mink](http://mink.behat.org) for the talk _Testing Business Critical Features With Behat_ at Midwest PHP 2019.
+A simple [Behat](http://behat.org/en/latest/) example repository using [Mink](http://mink.behat.org) for the talk _Testing Business Critical Features With Behat_.
 
 For a WordPress version of the example, visit [the `wordhat` branch](https://github.com/ataylorme/simple-behat-example/tree/wordhat)
 
