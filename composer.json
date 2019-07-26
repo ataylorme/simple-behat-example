@@ -1,6 +1,6 @@
 {
     "name": "ataylorme/simple-behat-example",
-    "description": "A simple Behat example repository for 'Testing Business Critical Features With Behat' at Midwest PHP 2019",
+    "description": "A simple Behat example repository for 'Testing Business Critical Features With Behat'.",
     "type": "project",
     "license": "MIT",
     "authors": [
