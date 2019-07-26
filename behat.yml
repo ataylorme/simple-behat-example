@@ -7,6 +7,6 @@ default:
 
   extensions:
     Behat\MinkExtension:
-      base_url: https://pantheon-wp-best-practices.lndo.site/
+      base_url: https://scalewp.io/
       goutte: ~
       selenium2: ~
